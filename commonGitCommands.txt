@@ -1,0 +1,24 @@
+Here are some of the most commonly used Git commands with brief explanations:
+
+git init: Initializes a new Git repository in the current directory.
+git clone <repository URL>: Creates a local copy of a remote Git repository.
+git add <file>: Stages changes in a file to be committed.
+git commit -m "Message": Commits staged changes with a descriptive message.
+git status: Shows the status of your working directory and staged changes.
+git pull: Fetches changes from a remote repository and merges them into the current branch.
+git push: Pushes committed changes to a remote repository.
+git branch: Lists all local branches and highlights the current branch.
+git checkout <branch>: Switches to a different branch.
+git merge <branch>: Merges changes from one branch into the current branch.
+git rebase <branch>: Reapplies commits from the current branch on top of another branch.
+git log: Displays a log of all commit history.
+git diff: Shows the difference between the working directory and the last commit.
+git reset <file>: Unstages changes in a file but keeps them in the working directory.
+git stash: Temporarily saves changes in a "stash" to work on a different branch.
+git remote -v: Lists remote repositories and their URLs.
+git fetch: Fetches changes from a remote repository but does not merge them.
+git tag: Lists, creates, or deletes tags for specific commits.
+git blame <file>: Shows the commit history for each line in a file.
+git pull --rebase: Fetches changes from a remote repository and rebases the current branch.
+
+These are just some of the most commonly used Git commands. Git has many more commands and options for more advanced usage and specific scenarios.
